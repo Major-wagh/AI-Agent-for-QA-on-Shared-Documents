@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+polars
+python-dotenv
+faiss-cpu
+openpyxl
+langgraph
+pypdf
+python-docx
